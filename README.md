@@ -1,1 +1,3 @@
 # TIME-SERIES-ANALYSIS-AND-FORECAST-FOR-STOCK-MARKET
+This project aims to analyze and forecast stock market trends using time series analysis techniques. To explore various time series models to understand historical patterns, identify trends and seasonality, and make short-term or long-term predictions. This project offers real-world experience in financial data analytics, model development, and result interpretation.
+This project underlines the operations that are performed over the stock market dataset to derive distinct times series models to understand the different patterns, and recognizing the trends and seasonality, that result in either long- term and short-term predictions.
